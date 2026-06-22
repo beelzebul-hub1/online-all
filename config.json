@@ -1,13 +1,13 @@
 {
   "streamers": [
-    "sirdapper",
-    ""
+    "sirdapper"
   ],
   "render_services": [
     {
-      "name": "accountalt1",
+      "name": "account1",
       "service_id": "srv-d8sae5b6sc1c73c7vmag",
       "api_key": "rnd_B8ogNQVS5C6xBeKncD3TIN7HIz0f"
     }
-  ]
+  ],
+  "check_interval_seconds": 600
 }
